@@ -4,3 +4,5 @@
 2. Проект: Калькулятор
 3. Проекты: Деление на разных яп
 4. Проект: Unit-test Пароль 
+5. https://www.figma.com/file/YvgR1wcsBG34e7juekSDQf/web-site - ссылка на дизайн сайта
+6. 
