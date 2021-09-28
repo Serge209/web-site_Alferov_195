@@ -26,6 +26,6 @@
   <li>В файле _media.scss и _mobile.scss наипсал стили для адаптации сайта</li>
   <li>В файле script.js написал скрипт для меню и плавной прокрутки.</li>
   <li>Подключал библиотеку aos для анимации на сайт.</li>
-  (https://github.com/Serge209/web-site_Alferov_195/raw/main/image.png)
+  ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/image.png)
   
 </ul>
