@@ -27,5 +27,6 @@
   <li>В файле script.js написал скрипт для меню и плавной прокрутки.</li>
   <li>Подключал библиотеку aos для анимации на сайт.</li>
   ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/image.png)
+  <li>Подлкючил библиотеку Parralax для эффекта parralx</li>
   
 </ul>
