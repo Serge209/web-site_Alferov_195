@@ -27,6 +27,9 @@
   <li>В файле script.js написал скрипт для меню и плавной прокрутки.</li>
   <li>Подключал библиотеку aos для анимации на сайт.</li>
   ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/image.png)
-  <li>Подлкючил библиотеку Parralax для эффекта parralx</li>
+  <li>Подлкючил библиотеку Parallax для эффекта parallax</li>
   ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/parallax.png)
+  Parallax - Это смещение близкого объекта относительно далекого при изменении угла зрения. Благодаря этому эффекту мы видим предметы в объеме, воспринимаем глубину и понимаем, что находится ближе, а что дальше.
+  
+ 
 </ul>
