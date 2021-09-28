@@ -28,5 +28,5 @@
   <li>Подключал библиотеку aos для анимации на сайт.</li>
   ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/image.png)
   <li>Подлкючил библиотеку Parralax для эффекта parralx</li>
-  
+  ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/parallax.png)
 </ul>
