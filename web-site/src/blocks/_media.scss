@@ -1,0 +1,106 @@
+@media (max-width: 1200px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .menu {
+        margin-left: 550px;
+
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .promo {
+        &__title {
+            font-size: 28px;
+        }
+        &__subtitle {
+            font-size: 21px;
+        }
+    }
+
+    .menu {
+        margin-left: 265px;
+        
+    }
+
+    .Python__Bg_icon {
+        img{
+            width: 70%;
+        }
+    }
+
+    .Java__BG_icon {
+        img{
+            width: 70%;
+        }
+    }
+
+    .CPlus__BG_icon {
+        img{
+            width: 70%;
+        }
+    }
+
+    .Csharp__BG_icon {
+        img{
+            width: 70%;
+        }
+    }
+}
+
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 540px;
+    }
+
+    .promo {
+        &__title {
+            font-size: 28px;
+        }
+        &__subtitle {
+            font-size: 21px;
+        }
+        &__btn {
+            width: 300px;
+            font-size: 14px;
+        }
+    }
+
+    .menu {
+      display: none;
+        
+    }
+
+    .hamburger {
+        display: block;
+        span {
+            margin-top: 5px;
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 100%;
+        padding: 0px 10px;
+    }
+
+    .promo {
+        &__title {
+            font-size: 24px;
+        }
+        &__subtitle {
+            font-size: 16px;
+        }
+        &__btn {
+            width: 280px;
+            font-size: 14px;
+        }
+    }
+}

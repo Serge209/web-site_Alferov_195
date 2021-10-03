@@ -1,0 +1,25 @@
+@import 'libs/bootstrap-reboot.min';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+@import 'blocks/promo';
+@import 'blocks/mobile';
+@import 'blocks/cards';
+@import "blocks/test";
+@import "blocks/calc";
+@import "blocks/footer";
+@import "blocks/media";
