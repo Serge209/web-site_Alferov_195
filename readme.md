@@ -30,6 +30,8 @@
   <li>Подлкючил библиотеку Parallax для эффекта parallax</li>
   ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/parallax.png)
   <li>Parallax - Это смещение близкого объекта относительно далекого при изменении угла зрения. Благодаря этому эффекту мы видим предметы в объеме, воспринимаем глубину и понимаем, что находится ближе, а что дальше.</li>
+  <li>Использовал скрипты для мобильного меню и плавной прокрутки</li>
+   ![Image alt](https://github.com/Serge209/web-site_Alferov_195/raw/main/script.png)
   
  
 </ul>
