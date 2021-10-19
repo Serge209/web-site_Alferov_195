@@ -1,5 +1,7 @@
 <b>Проект Web-Сайт</b>
 
+http://sergeweb19.beget.tech/
+
   
 1.<b>Этап - Дизайн в Figma</b>
   
